@@ -1,0 +1,25 @@
+body {
+    background-image: url("http://media-s3-us-east-1.ceros.com/ceros-marketing/images/2019/04/15/65d791197c0b11cf818b98a7ef113b8f/fausto-montanari4.gif");
+}
+
+/* styling the navbar */
+li {
+    display: inline-block;
+    font-family: 'roboto', sans-serif;
+    background-color: aliceblue;
+}
+
+
+/* styling the class="ONE */
+div.ONE {
+    text-align: center;
+    padding-top: 10%;
+    font-size: 30px;
+    color: rgb(211, 130, 171);
+
+}
+/* pushing the footer to the bottom */
+footer {
+    padding-top: 100%;
+    color: aliceblue;
+}
